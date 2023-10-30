@@ -16,7 +16,7 @@
 [linkedin]: hhttps://www.linkedin.com/in/suubi-lubaale-8b2367226/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SuubiLubaale/SuubiLubaale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
